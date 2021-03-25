@@ -7,6 +7,14 @@ body {
   border: solid lightcoral;
 }
 
+.text {
+  text-align: center;
+}
+
+.div {
+  text-align: center;
+}
+
 #button {
   border-radius: 15px;
   border: solid lightcoral;
