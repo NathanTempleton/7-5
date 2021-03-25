@@ -10,7 +10,7 @@ function calculator () {
   if ((age < 18) && (day !== 'weekend')) {
     document.getElementById('result').innerHTML = 'You have to go to school today.'
   } else if ((age > 18) && (day !== 'weekend')) {
-  document.getElementById('result').innerHTML = 'You have to go to work.'
+    document.getElementById('result').innerHTML = 'You have to go to work.'
   } else {
     document.getElementById('result').innerHTML = 'You get to relax for the weekend.'
   } document.getElementById('result').style.display = 'block'
