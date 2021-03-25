@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(228, 228, 250);
+}
+
+.input {
+  border-radius: 15px;
+  border: solid lightcoral;
+}
+
+#button {
+  border-radius: 15px;
+  border: solid lightcoral;
+}
+
+#result {
+  display: none;
+}
